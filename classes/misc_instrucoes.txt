@@ -1,9 +1,9 @@
 
 COMANDOS:
-d -> direita \t a -> esquerda
-s -> abaixo \t w -> acima
-e -> atacar \t q -> curar
-p -> encerrar programa
+w -> acima		| e -> atacar
+a -> esquerda	| q -> curar
+s -> abaixo		| p -> encerrar programa
+d -> direita	|
 
 Sempre o símbolo >>> aparecer, você deve digitar um dos comandos e apertar ENTER em seguida.
 Você é um explorador perdido em ruínas ancestrais, procurando um tesouro enquanto
