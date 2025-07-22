@@ -22,7 +22,7 @@ a lógica se você olhar pensando em Orientação a Objetos. A maior parte das f
 são autoexplicativas e claras, mas existem alguns trechos onde a lógica – ou a falta dela – pode
 confundir. Talvez um dia eu comente.
 
-Não abra Issues ou Pull requests, porque eu realmente não vou mexer nesse código outra vez.
+Não abra Issues ou Pull requests.
 Crie seu fork e divirta-se.
 
 ## Rodando o código
