@@ -1,0 +1,17 @@
+
+COMANDOS:
+d -> direita \t a -> esquerda
+s -> abaixo \t w -> acima
+e -> atacar \t q -> curar
+p -> encerrar programa
+
+Sempre o símbolo >>> aparecer, você deve digitar um dos comandos e apertar ENTER em seguida.
+Você é um explorador perdido em ruínas ancestrais, procurando um tesouro enquanto
+enfrenta os animais perigosos que espreitam na escuridão.
+Tenha cuidado e boa sorte!
+
+LEGENDA: 
+§ -> Você
+~ -> Serpente
+^ -> Morcego
+
